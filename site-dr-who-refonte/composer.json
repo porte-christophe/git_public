@@ -1,0 +1,7 @@
+{
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "guzzlehttp/guzzle": "^7.5",
+        "symfony/event-dispatcher": "^5.4"
+    }
+}
