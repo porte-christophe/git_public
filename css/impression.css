@@ -1,0 +1,8 @@
+div	{background: white;
+	}
+table, caption, td, th	{border: 1mm solid;
+	}
+h2	{color: black;
+	}
+header{display:none;}
+footer{display:none;}
